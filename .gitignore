@@ -48,3 +48,5 @@ env/
 # mkdocs documentation
 /site
 
+# Visual Studio Code
+*/.vscode/
